@@ -1,3 +1,3 @@
-# MySQL_Music_Record.Company_Project
+# SQL_Learning_Projects
 
-#This is a project for practicing SQL knowledges.
+#Here is my projects that I have practiced while learning how to use SQL !
